@@ -131,9 +131,11 @@ function ProjectCard({
         </div>
 
         <div className="flex gap-3">
-        <Button asChild variant="primary" size="sm">
-  <a href={project.live} target="_blank">View Live</a>
-</Button>
+       <a href={project.live} target="_blank">
+  <Button variant="primary" size="sm">
+    View Live
+  </Button>
+</a>
 
 <Button asChild variant="outline" size="sm">
   <a href={project.github} target="_blank">GitHub</a>
