@@ -29,7 +29,7 @@ A modern team introduction website built with a nature-inspired glassmorphism UI
 ![Hero](public/screenshots/hero.png)
 ![About](public/screenshots/about.png)
 ![Team](public/screenshots/team.png)
-![Projects](public/screenshots/projects.png)
+![Projects](public/screenshots/project.png)
 ![Contact](public/screenshots/contact.png)
 
 ---
