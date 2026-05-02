@@ -20,7 +20,7 @@ const projects = [
     "An interactive team showcase website featuring glassmorphism UI, smooth animations, and a nature-inspired design. Built to present team members, projects, and skills with a modern and responsive user experience.",
   tech: ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
   image: "🌿",
-  github: "https://github.com/jayeshwagh2511",
+  github: "https://github.com/jayeshwagh2511/nature-team-showcase",
 
 },
   {
