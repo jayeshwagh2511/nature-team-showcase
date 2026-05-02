@@ -31,13 +31,13 @@ const projects = [
   github: "https://github.com/jayeshwagh2511",
 }, 
 
- {
-    title: "Carbon Zero",
-    description:
-      "Personal carbon footprint calculator and offset marketplace for conscious consumers.",
-    tech: ["Vue.js", "Stripe", "Firebase", "Mapbox"],
-    image: "♻️",
-  },
+{
+  title: "Smart Contact Notification System",
+  description:
+    "A real-time contact management system that stores user submissions in a MySQL database and triggers instant email notifications for efficient communication handling.",
+  tech: ["Next.js", "MySQL", "Nodemailer"],
+  image: "📩",
+}
 ];
 
 export default function Projects() {
