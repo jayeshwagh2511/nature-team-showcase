@@ -210,25 +210,6 @@ function MemberCard({ member, index }: { member: Member; index: number }) {
           ))}
         </div>
 
-        {/* Cute heart dots — sunflower only */}
-        {sf && (
-          <div className="flex justify-center items-center gap-1 mt-3 relative z-10">
-            {[1, 1.35, 1].map((scale, i) => (
-              <svg
-                key={i}
-                width={8 * scale}
-                height={8 * scale}
-                viewBox="0 0 10 10"
-                style={{ opacity: i === 1 ? 0.85 : 0.55 }}
-              >
-                <path
-                  d="M5 8.5C5 8.5 1 5.5 1 3a2 2 0 014-0.1A2 2 0 019 3c0 2.5-4 5.5-4 5.5z"
-                  fill="rgba(250,204,21,0.8)"
-                />
-              </svg>
-            ))}
-          </div>
-        )}
       </div>
     </motion.div>
   );
