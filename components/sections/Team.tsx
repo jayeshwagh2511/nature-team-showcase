@@ -20,7 +20,7 @@ const team = [
     avatar: "👩‍💻",
     special: true,
     socials: [
-      { type: "github", url: "https://github.com/tanishadyaga1125" },
+      { type: "github", url: "https://github.com/tanishadyaga1125-lang" },
       { type: "linkedin", url: "https://www.linkedin.com/in/tanisha-dyaga-249771399" },
     ],
   },
@@ -31,7 +31,7 @@ const team = [
     special: false,
     socials: [
       { type: "twitter", url: "https://twitter.com/" },
-      { type: "linkedin", url: "https://linkedin.com/" },
+      { type: "linkedin", url: "https://www.linkedin.com/in/atharv-hange-978b3b336" },
     ],
   },
 ];
