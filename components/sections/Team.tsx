@@ -231,7 +231,7 @@ export default function Team() {
             Our Team
           </span>
           <h2 className="text-4xl md:text-5xl font-bold text-white">
-            Meet the <span className="text-nature-400">Guardians</span>
+            Meet the <span className="text-nature-400">Creative Minds</span>
           </h2>
         </motion.div>
 
